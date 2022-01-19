@@ -3,10 +3,10 @@
 
 <h3 align="left">📮 Socials</h3>
 
-[<img align="left" alt="joshuapiper.dev | Portfolio" width="22px" src="./visualstudiocode-purple.svg" />][portfolio]
-[<img align="left-purple" alt="joshua-e-piper | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
-[<img align="left" alt="josh.piper1505@yahoo.com | Email" width="22px" src="./gmail-purple.svg" />][gmail]
-[<img align="left" alt="linktr.ee/joshua_piper | LinkTree" width="22px" src="./linktree-purple.svg" />][linktree]
+[<img align="left" alt="joshuapiper.dev | Portfolio" width="50px" height="auto" src="./visualstudiocode-purple.svg" />][portfolio]
+[<img align="left-purple" alt="joshua-e-piper | LinkedIn" width="50px" height="auto" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="josh.piper1505@yahoo.com | Email" width="50px" height="auto" src="./gmail-purple.svg" />][gmail]
+[<img align="left" alt="linktr.ee/joshua_piper | LinkTree" width="50px" height="auto" src="./linktree-purple.svg" />][linktree]
 
 <br />
 
