@@ -1,12 +1,12 @@
-<p align="center"> <img src="https://i.imgur.com/Z7oJHWu.png" alt="undraw coffee illustration" width="500px%"> </p>
+<p align="center"> <img src="./coding.svg" alt="undraw coffee illustration" width="500px%"> </p>
 <h1 align="center">Hi, I'm Josh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <h3 align="left">📮 Socials</h3>
 
-[<img align="left" alt="joshuapiper.dev | Portfolio" width="22px" src="./visualstudiocode.svg" />][portfolio]
-[<img align="left" alt="joshua-e-piper | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
-[<img align="left" alt="josh.piper1505@yahoo.com | Email" width="22px" src="./gmail.svg" />][gmail]
-[<img align="left" alt="linktr.ee/joshua_piper | LinkTree" width="22px" src="./linktree.svg" />][linktree]
+[<img align="left" alt="joshuapiper.dev | Portfolio" width="22px" src="./visualstudiocode-purple.svg" />][portfolio]
+[<img align="left-purple" alt="joshua-e-piper | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="josh.piper1505@yahoo.com | Email" width="22px" src="./gmail-purple.svg" />][gmail]
+[<img align="left" alt="linktr.ee/joshua_piper | LinkTree" width="22px" src="./linktree-purple.svg" />][linktree]
 
 <br />
 
@@ -43,12 +43,18 @@
 [![DynamoDB](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge)](#) 
 [![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge)](#) 
 
-<h3 align="left">🌎 My stats</h3>
+<details>
+<summary >
+    🌎 My stats
+</summary>
 <p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josh-piper&show_icons=true&locale=en&layout=compact" alt="josh-piper" />
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josh-piper&show_icons=true&locale=en" alt="josh-piper" />
+<br />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=josh-piper&show_icons=true&locale=en" alt="josh-piper" />
 </p>
+</details>
 
 [portfolio]: https://joshuapiper.dev
 [linkedin]: https://www.linkedin.com/in/joshua-e-piper/
