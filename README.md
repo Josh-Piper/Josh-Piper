@@ -1,5 +1,14 @@
 <p align="center"> <img src="https://i.imgur.com/Z7oJHWu.png" alt="undraw coffee illustration" width="500px%"> </p>
-<h1 align="center">Hi 👋, I'm Josh</h1>
+<h1 align="center">Hi, I'm Josh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+
+<h3 align="left">📮 Socials</h3>
+
+[<img align="left" alt="joshuapiper.dev | Portfolio" width="22px" src="./visualstudiocode.svg" />][portfolio]
+[<img align="left" alt="joshua-e-piper | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="josh.piper1505@yahoo.com | Email" width="22px" src="./gmail.svg" />][gmail]
+[<img align="left" alt="linktr.ee/joshua_piper | LinkTree" width="22px" src="./linktree.svg" />][linktree]
+
+<br />
 
 <h3 align="left">🐶 Who Am I?</h3>
 
@@ -34,6 +43,14 @@
 [![DynamoDB](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge)](#) 
 [![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge)](#) 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josh-piper&show_icons=true&locale=en&layout=compact" alt="josh-piper" /></p>
+<h3 align="left">🌎 My stats</h3>
+<p align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josh-piper&show_icons=true&locale=en&layout=compact" alt="josh-piper" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josh-piper&show_icons=true&locale=en" alt="josh-piper" /></p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josh-piper&show_icons=true&locale=en" alt="josh-piper" />
+</p>
+
+[portfolio]: https://joshuapiper.dev
+[linkedin]: https://www.linkedin.com/in/joshua-e-piper/
+[gmail]: mailto:/josh.piper1505@yahoo.com
+[linktree]: https://linktr.ee/joshua_piper
