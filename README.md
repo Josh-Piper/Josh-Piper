@@ -47,13 +47,11 @@
 <summary >
     🌎 My stats
 </summary>
-<p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josh-piper&show_icons=true&locale=en&layout=compact" alt="josh-piper" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=josh-piper&show_icons=true&locale=en&layout=compact" alt="josh-piper" />
 
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=josh-piper&show_icons=true&locale=en" alt="josh-piper" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=josh-piper&show_icons=true&locale=en" alt="josh-piper" />
 </details>
 
 [portfolio]: https://joshuapiper.dev
